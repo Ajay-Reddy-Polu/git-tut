@@ -1,0 +1,1 @@
+print("ajay redfy + hp lapppy") # type: ignore
